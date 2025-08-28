@@ -54,7 +54,7 @@
     {
         IPv4 = 0,
         IPv6 = 1,
-    },
+    }
 	
     public enum DataSourceType
     {
