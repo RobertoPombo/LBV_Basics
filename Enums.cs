@@ -54,5 +54,15 @@
     {
         IPv4 = 0,
         IPv6 = 1,
+    },
+	
+    public enum DataSourceType
+    {
+        None = 0,
+        txt = 1,
+        xlsx = 2,
+        xls = 3,
+        csv = 4,
+        tsv = 5
     }
 }
